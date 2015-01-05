@@ -1,0 +1,27 @@
+[submodule "openstack-common"]
+	path = openstack-common
+	url = git@github.com:Nosmoht/ansible-role-openstack-common.git
+[submodule "openstack-glance"]
+	path = openstack-glance
+	url = git@github.com:Nosmoht/ansible-openstack-glance.git
+[submodule "mariadb"]
+	path = mariadb
+	url = git@github.com:Nosmoht/ansible-role-mariadb.git
+[submodule "openstack-compute"]
+	path = openstack-compute
+	url = git@github.com:Nosmoht/ansible-role-openstack-compute.git
+[submodule "epel"]
+	path = epel
+	url = git@github.com:Nosmoht/ansible-role-epel.git
+[submodule "oracle-server"]
+	path = oracle-server
+	url = git@github.com:Nosmoht/ansible-role-oracle-server.git
+[submodule "openstack-database"]
+	path = openstack-database
+	url = git@github.com:Nosmoht/ansible-role-openstack-database.git
+[submodule "openstack-network"]
+	path = openstack-network
+	url = git@github.com:Nosmoht/ansible-role-openstack-network.git
+[submodule "openstack-controller"]
+	path = openstack-controller
+	url = git@github.com:Nosmoht/ansible-role-openstack-controller.git
