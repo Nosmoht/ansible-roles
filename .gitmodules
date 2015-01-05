@@ -25,3 +25,9 @@
 [submodule "openstack-controller"]
 	path = openstack-controller
 	url = git@github.com:Nosmoht/ansible-role-openstack-controller.git
+[submodule "oracle-common"]
+	path = oracle-common
+	url = git@github.com:Nosmoht/ansible-role-oracle-common.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = git@github.com:Nosmoht/ansible-role-rabbitmq.git
