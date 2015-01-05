@@ -31,3 +31,6 @@
 [submodule "rabbitmq"]
 	path = rabbitmq
 	url = git@github.com:Nosmoht/ansible-role-rabbitmq.git
+[submodule "openstack-image"]
+	path = openstack-image
+	url = git@github.com:Nosmoht/ansible-role-openstack-image.git
