@@ -3,7 +3,7 @@
 	url = git@github.com:Nosmoht/ansible-role-openstack-common.git
 [submodule "openstack-glance"]
 	path = openstack-glance
-	url = git@github.com:Nosmoht/ansible-openstack-glance.git
+	url = git@github.com:Nosmoht/ansible-role-openstack-glance.git
 [submodule "mariadb"]
 	path = mariadb
 	url = git@github.com:Nosmoht/ansible-role-mariadb.git
